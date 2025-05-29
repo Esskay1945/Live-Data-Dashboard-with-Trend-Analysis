@@ -1,3 +1,11 @@
+Live Data Dashboard
+A simple Streamlit app that shows scores from a CSV file in a bar chart. You can filter by name and see if scores are going up or down. The page refreshes every 2 seconds to show live updates.
+
+
+
+
+
+
 This project is a Streamlit-based web app designed to provide real-time visualization and analysis of score data loaded from a CSV file. It enables users to interactively filter data by names and view corresponding score trends in an easy-to-understand bar chart format.
 
 Features
